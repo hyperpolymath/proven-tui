@@ -1,0 +1,6 @@
+homepage: "https://github.com/hyperpolymath/proven-tui"
+language: rust
+main_repo: "https://github.com/hyperpolymath/proven-tui"
+sanitizers:
+  - address
+  - undefined
